@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+feedparser
+requests
+beautifulsoup4
